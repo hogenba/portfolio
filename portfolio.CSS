@@ -65,4 +65,24 @@ color: red;
 p:hover {
 	 font-size: 40px;
 }
+
+.WorkLife {
+	background: red;
+	max-width: 500px;
+	margin-top: 30px;
+}
+
+.WorkTitle {
+	font-size: 30px;
+}
+
+.Work {
+	color: orange;
+	
+}
+
+
+
+
+
 }
