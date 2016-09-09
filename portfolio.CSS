@@ -15,12 +15,19 @@ h1 {
 
 body {
 background: brown;
+display: inline-block;
 }
 
 h1 {
 	color: black;
 	background: orange;
 	border: solid black 20px;
+}
+
+h1:hover {
+	border: black dashed 30px;
+	background: red;
+	color: orange;
 }
 
 h2 {
@@ -60,6 +67,7 @@ color: red;
 
 .EarlyLife:hover {
 	min-width: 800px;
+	border: red solid 20px;
 }
 
 p:hover {
@@ -70,6 +78,14 @@ p:hover {
 	background: red;
 	max-width: 500px;
 	margin-top: 30px;
+	position: right;
+	margin-left: 500px;
+}
+
+.WorkLife:hover {
+	min-width: 800px;
+	margin-left:200px;
+	border: black 20px solid;
 }
 
 .WorkTitle {
@@ -78,11 +94,20 @@ p:hover {
 
 .Work {
 	color: orange;
-	
 }
 
+.Accomplishments {
+	background: green;
+	max-width: 500px;
+}
 
+.Accomplishments:hover {
+	border: blue solid 20px;
+}
 
+.AccompTitle {
+	font-size: 30px;
+}
 
 
 }
