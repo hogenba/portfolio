@@ -52,4 +52,17 @@ color: red;
 	color: orange;
 }
 
+.Major:hover {
+	 -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+
+.EarlyLife:hover {
+	min-width: 800px;
+}
+
+p:hover {
+	 font-size: 40px;
+}
 }
