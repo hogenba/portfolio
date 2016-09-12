@@ -25,6 +25,12 @@ h3 {
 	color: red;
 }
 
+p:hover {
+	color: red;
+	background: black;
+	font-size: 30px;
+}
+
 @media screen and (min-width: 1000px)
 {
 
