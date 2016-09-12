@@ -9,6 +9,15 @@ h1 {
 	font-size: 100px;
 }
 
+img {
+	max-height: 500px;
+	max-width: 500px;
+}
+
+h3 {
+	font-size:50px;
+	color: orange;
+}
 
 @media screen and (min-width: 1000px)
 {
@@ -78,13 +87,10 @@ p:hover {
 	background: red;
 	max-width: 500px;
 	margin-top: 30px;
-	position: right;
-	margin-left: 500px;
 }
 
 .WorkLife:hover {
 	min-width: 800px;
-	margin-left:200px;
 	border: black 20px solid;
 }
 
@@ -107,6 +113,21 @@ p:hover {
 
 .AccompTitle {
 	font-size: 30px;
+}
+
+img {
+	max-width: 500px;
+	display: inline-block;
+	justify-content: center;
+	margin-top: 20px;
+	min-width: 20px;
+}
+
+img:hover {
+	-webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+        border: blue dashed 10px;
 }
 
 
