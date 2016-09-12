@@ -135,7 +135,7 @@ h3 {
 	color: orange;
 }
 
-h2:hover {
+h1:hover {
 -webkit-transform: rotateZ(-5deg);
         -ms-transform: rotateZ(-5deg);
         transform: rotateZ(-5deg);
