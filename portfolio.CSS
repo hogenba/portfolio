@@ -20,6 +20,10 @@ img {
 	max-width: 500px;
 }
 
+img:hover {
+	border: yellow solid 15px;
+}
+
 h3 {
 	font-size:50px;
 	color: red;
