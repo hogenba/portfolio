@@ -9,6 +9,12 @@ h1 {
 	font-size: 100px;
 }
 
+h1:hover {
+	color: red;
+	background: black;
+	font-size: 130px;
+}
+
 img {
 	max-height: 500px;
 	max-width: 500px;
