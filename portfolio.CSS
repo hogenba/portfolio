@@ -136,9 +136,9 @@ h3 {
 }
 
 h2:hover {
--webkit-transform: rotateZ(-30deg);
-        -ms-transform: rotateZ(-30deg);
-        transform: rotateZ(-30deg);
+-webkit-transform: rotateZ(-5deg);
+        -ms-transform: rotateZ(-5deg);
+        transform: rotateZ(-5deg);
 }
 
 }
