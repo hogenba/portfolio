@@ -238,8 +238,8 @@ h1:hover {
 h3:hover {
 -webkit-animation: swing 5s ease;
         animation: swing 5s ease;
-        -webkit-animation-iteration-count: 1;
-        animation-iteration-count: 1;	
+        -webkit-animation-iteration-count: 5;
+        animation-iteration-count: 5;	
 }
 
 }
