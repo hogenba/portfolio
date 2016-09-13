@@ -240,6 +240,7 @@ h3:hover {
         animation: swing 5s ease;
         -webkit-animation-iteration-count: 5;
         animation-iteration-count: 5;	
+        margin-left: 50px;
 }
 
 }
