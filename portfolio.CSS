@@ -146,7 +146,7 @@ img:hover {
         -webkit-transform: rotateZ(-5deg);
         -ms-transform: rotateZ(-5deg);
         transform: rotateZ(-5deg);
-        box-shadow: inset 0 0 0 25px yellow;
+        box-shadow: inset 0 0 0 50px yellow;
 }
 
 h3 {
